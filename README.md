@@ -1,4 +1,4 @@
-# EXPERIMENT-2-OPTICAL-COMMUNICATION
+[# EXPERIMENT-2-OPTICAL-COMMUNICATION
 ## 🔍 EX.NO: 2 – Verification of Fiber Losses
 
 **Aim:**  
@@ -50,3 +50,4 @@ Timeperiod : 1ms
 Attenuation and bending loss characteristics verified.
 
 ---
+](https://github.com/Varshakamaraj/EXPERIMENT-2-Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss)
